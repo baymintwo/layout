@@ -1,14 +1,14 @@
-# vue-admin-template
+# vue-layout
 
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
-**Live demo:** http://panjiachen.github.io/vue-admin-template
+**Live demo:** https://github.com/baymintwo/layout
 
 ## Build Setup
 
 ```bash
 # Clone project
-git clone https://github.com/PanJiaChen/vue-admin-template.git
+git clone https://github.com/baymintwo/layout.git
 
 # Install dependencies
 npm install
@@ -32,14 +32,6 @@ This project is based on `webpack4` development. If you want to use `webpack3` d
 
 For `typescript` version, you can use [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template) (Credits: [@Armour](https://github.com/Armour))
 
-## Related Project
-
-[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
-
-[electron-vue-admin](https://github.com/PanJiaChen/electron-vue-admin)
-
-[vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)
-
 ### Element-Ui using cdn tutorial
 
 Import css and js of `Element`, and then import vue. Because `Element` is vue-dependent, vue must be import before it.
@@ -58,13 +50,6 @@ Finally there is a small detail to pay attention to that if you import vue in gl
 [issue](https://github.com/vuejs/vuex/issues/731)
 
 And you can use `npm run build --report` to see the effect
-
-Pictured:
-![demo](https://panjiachen.github.io/images/element-cdn.png)
-
-**[Detailed code](https://github.com/PanJiaChen/vue-admin-template/commit/746aff560932704ae821f82f10b8b2a9681d5177)**
-
-**[Branch](https://github.com/PanJiaChen/vue-admin-template/tree/element-ui-cdn)**
 
 ## Browsers support
 
