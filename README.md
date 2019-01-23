@@ -4,8 +4,6 @@
 
 **Live demo:** http://panjiachen.github.io/vue-admin-template
 
-[中文文档](https://github.com/PanJiaChen/vue-admin-template/blob/master/README-zh.md)
-
 ## Build Setup
 
 ```bash
@@ -25,9 +23,6 @@ npm run build
 npm run build --report
 ```
 
-## Demo
-
-![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
 
 ## Extra
 
@@ -46,8 +41,6 @@ For `typescript` version, you can use [vue-typescript-admin-template](https://gi
 [vue-typescript-admin-template](https://github.com/Armour/vue-typescript-admin-template)
 
 ### Element-Ui using cdn tutorial
-
-First find `index.html`([root directory](https://github.com/PanJiaChen/vue-admin-template/blob/element-ui-cdn/index.html))
 
 Import css and js of `Element`, and then import vue. Because `Element` is vue-dependent, vue must be import before it.
 
